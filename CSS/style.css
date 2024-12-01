@@ -154,7 +154,7 @@ header nav .toggle-menu {
 
 /* Start landing */
 .landing {
-    background-image: url(../images/landing.jpg);
+    background-image: url(/images/landing.jpg);
     min-height: 100vh;
     position: relative;
     background-size: cover;
